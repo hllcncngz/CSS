@@ -1,0 +1,26 @@
+body{
+    text-align: center; 
+    background-color: rgb(153, 254, 255);
+    color:indigo;
+    margin: 0 auto;
+}
+#box a{
+    text-decoration: none;
+    margin: 5px;
+    color:rgb(118, 51, 206);
+}
+#text b a{
+    text-decoration: none;
+    color: rgb(146, 76, 238);
+}
+body ul li{
+    list-style-type: none;
+    margin-top: 10px;
+    color: rgb(22, 30, 84);;
+}
+#box2{
+    float: left;
+}
+.img{
+    margin-top: 20px;
+}
