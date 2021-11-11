@@ -1,0 +1,96 @@
+body{
+    font-family: sans-serif;
+    height: 97vh;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    width: 100%;
+    height: 60px;
+
+}
+#box1{
+    width: 175px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px 20px 20px;
+    float: right;
+    margin-top: 10px;
+}
+#box1 a{
+    text-decoration: none;
+    color: black;
+    padding: 1px;
+}
+img {
+    width: 272px;
+    height: 92px;
+    margin-top: 65px;
+}
+section{
+    text-align: center;
+    margin: 0 auto;
+}
+
+#search{
+    width: 580px;
+    height: 42px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid rgb(224, 222, 222);
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+}
+#text{
+    border: none;
+    outline: none;
+}
+#search:hover{
+    box-shadow: 2px 0px 0px 3px whitesmoke;
+}
+.buttons{
+    padding: 10px 15px 15px 10px;
+    margin: 10px;
+    background-color: rgb(248, 249, 250);
+    border: 2px solid rgb(248, 249, 250);
+    border-radius: 5px;
+    color: rgb(65, 64, 64);
+}
+.buttons:hover{
+    border: 1px solid rgb(216, 215, 215);
+}
+#searchbar{
+    opacity: 0,1;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color:rgb(242, 242, 242) ;
+    position: fixed;
+    bottom: 0;
+}
+#fbox3 a{
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+}
+#fbox1 a{
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+}
+#fbox2 a{
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+}
