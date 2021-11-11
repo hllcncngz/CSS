@@ -1,0 +1,28 @@
+.container{
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+}
+#form{
+    text-align: center;
+    
+}
+#box1{
+    height: 120px;
+    text-align: center;
+    width: 40%;
+    background-color: rgb(126, 229, 218);
+
+}
+#box2{
+    width: 20%;
+    height: 120px;
+    background-color: rgb(99, 230, 216);
+    margin: 0 5px;
+    
+}
+#box3{
+    width: 40%;
+    height: 120px;
+    background-color: rgb(79, 230, 214);
+}
